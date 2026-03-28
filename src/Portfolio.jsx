@@ -421,6 +421,14 @@ const PROJECTS = [
     link:  "https://rag-project-gamma.vercel.app/",
     status: "Active",
   },
+  {
+    id: "02",
+    title: "Prompt Evaluation Playground",
+    desc:  "A platform for evaluating and refining prompts for large language models, enabling users to test different prompt strategies and measure their effectiveness in generating desired outputs.",
+    tags:  ["Vite", "OpenAI", "Vercel"],
+    link:  "#",
+    status: "Research",
+  },  
 
 ];
 
