@@ -24,7 +24,6 @@ The project is structured across four distinct layers, each with a clear respons
 
 <img width="1440" height="1270" alt="image" src="https://github.com/user-attachments/assets/2c87a87b-8696-45c9-a90f-049b7cb6611b" />
 
-
 ### Layer 1 — Delivery (Vercel Edge CDN)
 
 Vercel serves the portfolio from its global edge network, meaning the static files are cached and served from a node geographically close to each visitor. There is no origin server, no Node.js runtime, no database — the entire site resolves from pre-built static assets.
