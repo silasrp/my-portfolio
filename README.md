@@ -1,6 +1,5 @@
-# &lt;SilasPereira /&gt; — Portfolio
+My Portfolio - Frontend
 
-> **Software engineer exploring how AI fits into real-world engineering.**  
 > A production-grade personal portfolio built with React and deployed on Vercel's global edge network.
 
 [![Live](https://img.shields.io/badge/Live-silasrp.dev-4AFFC4?style=flat-square&logo=vercel&logoColor=black)](https://silasrp.dev)
