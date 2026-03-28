@@ -23,7 +23,6 @@ The site was designed to balance **visual impact** with **technical honesty**: e
 The project is structured across four distinct layers, each with a clear responsibility.
 
 ```
-<img width="940" height="829" alt="image" src="https://github.com/user-attachments/assets/524be445-fd72-4a50-8c33-69ee24aeff45" />
 
 ```
 
