@@ -23,29 +23,8 @@ The site was designed to balance **visual impact** with **technical honesty**: e
 The project is structured across four distinct layers, each with a clear responsibility.
 
 ```
-┌─────────────────────────────────────────────┐
-│                  Browser                    │
-└──────────────────────┬──────────────────────┘
-                       │ HTTP request
-┌──────────────────────▼──────────────────────┐
-│             Vercel Edge CDN                 │  ← Delivery layer
-│    Global edge · HTTPS · CI/CD auto-deploy  │
-└──────────────────────┬──────────────────────┘
-                       │ serves static assets
-┌──────────────────────▼──────────────────────┐
-│              Vite Build Output              │  ← Build layer
-│  index.html  │  favicon.svg  │  JS bundle  │
-└──────────────────────┬──────────────────────┘
-                       │ React bootstraps
-┌──────────────────────▼──────────────────────┐
-│             React Application               │  ← Application layer
-│  Portfolio  │  NeuralCanvas  │  useTyping   │
-└──────────────────────┬──────────────────────┘
-                       │ fetches fonts at runtime
-┌──────────────────────▼──────────────────────┐
-│             Google Fonts CDN                │  ← External layer
-│      Syne · Outfit · JetBrains Mono         │
-└─────────────────────────────────────────────┘
+<img width="1440" height="1270" alt="image" src="https://github.com/user-attachments/assets/28dfde0b-12ca-41bb-98a5-9f3c21a73268" />
+
 ```
 
 ### Layer 1 — Delivery (Vercel Edge CDN)
