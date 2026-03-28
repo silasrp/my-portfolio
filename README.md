@@ -22,9 +22,8 @@ The site was designed to balance **visual impact** with **technical honesty**: e
 
 The project is structured across four distinct layers, each with a clear responsibility.
 
-```
+<img width="1440" height="1270" alt="image" src="https://github.com/user-attachments/assets/2c87a87b-8696-45c9-a90f-049b7cb6611b" />
 
-```
 
 ### Layer 1 — Delivery (Vercel Edge CDN)
 
