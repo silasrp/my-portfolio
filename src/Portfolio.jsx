@@ -727,12 +727,12 @@ export default function Portfolio() {
                   alignItems:    "center",
                   color:         p.status === "Active" ? "var(--accent)" : "gray",
                   opacity:       p.status === "Active" ? 1 : 0.5,
-                  pointerEvents: project.status === "Active" ? "auto" : "none",                                    
+                  pointerEvents: p.status === "Active" ? "auto" : "none",                                    
                   fontFamily:    "'JetBrains Mono', monospace",
                   fontSize:      "0.7rem",
                   letterSpacing: "0.12em",
                 }}>
-                  <span>{project.status === "Active" ? "VIEW PROJECT" : "COMING SOON"}</span>
+                  <span>{p.status === "Active" ? "VIEW PROJECT" : "COMING SOON"}</span>
                   <span>↗</span>
                 </div>
               </a>
