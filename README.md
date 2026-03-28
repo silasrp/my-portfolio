@@ -3,7 +3,7 @@
 > **Software engineer exploring how AI fits into real-world engineering.**  
 > A production-grade personal portfolio built with React and deployed on Vercel's global edge network.
 
-[![Live](https://img.shields.io/badge/Live-silaspereira.dev-4AFFC4?style=flat-square&logo=vercel&logoColor=black)](https://silaspereira.vercel.app)
+[![Live](https://img.shields.io/badge/Live-silasrp.dev-4AFFC4?style=flat-square&logo=vercel&logoColor=black)](https://silasrp.dev)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
 [![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev)
 [![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=flat-square&logo=vercel)](https://vercel.com)
