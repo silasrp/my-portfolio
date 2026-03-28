@@ -1,6 +1,6 @@
-My Portfolio - Frontend
+# My Portfolio Website
 
-> A production-grade personal portfolio built with React and deployed on Vercel's global edge network.
+A production-grade personal portfolio built with React and deployed on Vercel's global edge network.
 
 [![Live](https://img.shields.io/badge/Live-silasrp.dev-4AFFC4?style=flat-square&logo=vercel&logoColor=black)](https://silasrp.dev)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
