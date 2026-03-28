@@ -1,9 +1,8 @@
-# &lt;SilasPereira /&gt; — Portfolio
+# My Portfolio Website
 
-> **Software engineer exploring how AI fits into real-world engineering.**  
-> A production-grade personal portfolio built with React and deployed on Vercel's global edge network.
+A production-grade personal portfolio built with React and deployed on Vercel's global edge network.
 
-[![Live](https://img.shields.io/badge/Live-silaspereira.dev-4AFFC4?style=flat-square&logo=vercel&logoColor=black)](https://silaspereira.vercel.app)
+[![Live](https://img.shields.io/badge/Live-silasrp.dev-4AFFC4?style=flat-square&logo=vercel&logoColor=black)](https://silasrp.dev)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
 [![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev)
 [![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=flat-square&logo=vercel)](https://vercel.com)
@@ -22,31 +21,7 @@ The site was designed to balance **visual impact** with **technical honesty**: e
 
 The project is structured across four distinct layers, each with a clear responsibility.
 
-```
-┌─────────────────────────────────────────────┐
-│                  Browser                    │
-└──────────────────────┬──────────────────────┘
-                       │ HTTP request
-┌──────────────────────▼──────────────────────┐
-│             Vercel Edge CDN                 │  ← Delivery layer
-│    Global edge · HTTPS · CI/CD auto-deploy  │
-└──────────────────────┬──────────────────────┘
-                       │ serves static assets
-┌──────────────────────▼──────────────────────┐
-│              Vite Build Output              │  ← Build layer
-│  index.html  │  favicon.svg  │  JS bundle  │
-└──────────────────────┬──────────────────────┘
-                       │ React bootstraps
-┌──────────────────────▼──────────────────────┐
-│             React Application               │  ← Application layer
-│  Portfolio  │  NeuralCanvas  │  useTyping   │
-└──────────────────────┬──────────────────────┘
-                       │ fetches fonts at runtime
-┌──────────────────────▼──────────────────────┐
-│             Google Fonts CDN                │  ← External layer
-│      Syne · Outfit · JetBrains Mono         │
-└─────────────────────────────────────────────┘
-```
+<img width="1440" height="1270" alt="image" src="https://github.com/user-attachments/assets/2c87a87b-8696-45c9-a90f-049b7cb6611b" />
 
 ### Layer 1 — Delivery (Vercel Edge CDN)
 
