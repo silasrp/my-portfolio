@@ -424,8 +424,8 @@ const PROJECTS = [
   {
     id: "02",
     title: "Prompt Evaluation Playground",
-    desc:  "A platform for evaluating and refining prompts for large language models, enabling users to test different prompt strategies and measure their effectiveness in generating desired outputs.",
-    tags:  ["LLM Workflows", "Vite", "OpenAI", "Vercel"],
+    desc:  "Prompt engineering is measurable, not just intuitive. This workbench lets you apply six strategies — Zero-Shot, Chain of Thought, Structured Output and more — run them against real OpenAI models, then score every response across four quality dimensions using a second AI acting as an impartial judge.",
+    tags:  ["LLM Workflows", "React +Vite", "OpenAI API", "Vercel", "Node.js", "Upstash Redis"],
     link:  "https://prompt-eval-lab.vercel.app/",
     status: "Active",
   },  
