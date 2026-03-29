@@ -444,8 +444,8 @@ const SKILLS = {
   "Backend & Data": ["SQL Server", "Oracle", "ElasticSearch", "Chroma DB", "pgvector"],
   "Web": ["JavaScript", "Vue.js", "React", "Angular", "HTML", "CSS"],
   "Architecture & Delivery": ["Systems Design", "Agile/Scrum", "Technical Leadership", "Mentoring"],
-  "AI & LLMs": ["Prompt Engineering", "LLM Workflows", "Agent-Based Systems", "AI Tool Integration"],
-  "Tools & Practices": ["Docker", "Git", "Testing", "Monitoring"]
+  "AI & LLMs": ["Prompt Engineering", "LLM Workflows", "Agent-Based Systems", "AI API Integration"],
+  "Tools & Practices": ["Docker", "Git", "JIRA", "Agile Methodologies"]
 
 };
 
