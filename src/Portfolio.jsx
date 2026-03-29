@@ -426,7 +426,7 @@ const PROJECTS = [
     title: "Prompt Evaluation Playground",
     desc:  "A platform for evaluating and refining prompts for large language models, enabling users to test different prompt strategies and measure their effectiveness in generating desired outputs.",
     tags:  ["Vite", "OpenAI", "Vercel"],
-    link:  "#",
+    link:  "",
     status: "Research",
   },  
 
