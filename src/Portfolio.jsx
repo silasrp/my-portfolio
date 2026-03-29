@@ -424,8 +424,8 @@ const PROJECTS = [
   {
     id: "02",
     title: "Prompt Evaluation Playground",
-    desc:  "Prompt engineering is measurable, not just intuitive. This workbench lets you apply six strategies — Zero-Shot, Chain of Thought, Structured Output and more — run them against real OpenAI models, then score every response across four quality dimensions using a second AI acting as an impartial judge.",
-    tags:  ["LLM Workflows", "React +Vite", "OpenAI API", "Vercel", "Node.js", "Upstash Redis"],
+    desc:  "Prompt engineering is measurable, not just intuitive. This workbench lets you apply six strategies and run them against real OpenAI models, then score every response across four quality dimensions using a second AI acting as an impartial judge.",
+    tags:  ["LLM Workflows", "React + Vite", "OpenAI API", "Vercel", "Node.js", "Upstash Redis"],
     link:  "https://prompt-eval-lab.vercel.app/",
     status: "Active",
   },  
