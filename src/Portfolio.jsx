@@ -429,6 +429,14 @@ const PROJECTS = [
     link:  "https://prompt-eval-lab.vercel.app/",
     status: "Active",
   },  
+  {
+    id: "03",
+    title: "CodeLens — Codebase Intelligence Platform",
+    desc:  "CodeLens analyses GitHub repositories using a multi-stage pipeline that combines code parsing, dependency graphs, and LLMs to generate structured documentation and architecture insights. Built with FastAPI, AWS, and a vector search layer for natural language exploration.",
+    tags:  ["Python", "FastAPI", "OpenAI API", "Voyage AI", "Qdrant", "AWS Lambda", "SQS", "DynamoDB", "S3", "CDK", "React"],
+    link:  "http://codelens-frontend-017562255303.s3-website.eu-west-2.amazonaws.com/",
+    status: "Active",
+  },  
 
 ];
 
