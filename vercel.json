@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    {
+      "source": "/linkedingen/:path*",
+      "destination": "https://linkedin-gen-omega.vercel.app*"
+    }
+  ]
+}
+
